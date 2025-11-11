@@ -1,5 +1,3 @@
 ﻿venv/
 __pycache__/
-*.pyc
-*.pkl
-data/
+
